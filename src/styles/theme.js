@@ -1,13 +1,13 @@
 export default {
     COLORS: {
-     GRAY_900: "#121214",
-     GRAY_800: "#202024",
-     GRAY_700: "#3E3B47",
-     GRAY_600: "#5A595E",
+     GRAY_900: "#000000",
+     GRAY_800: "#1C1C1C",
+     GRAY_700: "#363636",
+     GRAY_600: "#4F4F4F",
   
-      WHITE: "#F4EDE8",
+      WHITE: "#FFFFFF",
   
-      BRAND_600: "#633BBC",
-      BRAND_500: "#8257E5",
+      BRAND_600: "#009ACD",
+      BRAND_500: "#00B2EE",
     }
   };
